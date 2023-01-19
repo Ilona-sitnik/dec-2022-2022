@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ff45119-9b29-4163-8e23-a7d4995bfc46" name="Changes" comment="img beside">
+    <list default="true" id="2ff45119-9b29-4163-8e23-a7d4995bfc46" name="Changes" comment="ul+ol">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lecture/html/lesson1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lecture/html/lesson1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture/html/lesson1/sim.css" beforeDir="false" afterPath="$PROJECT_DIR$/lecture/html/lesson1/sim.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +90,7 @@
       <workItem from="1674078393389" duration="65000" />
       <workItem from="1674078516020" duration="37000" />
       <workItem from="1674078571457" duration="1363000" />
-      <workItem from="1674116406150" duration="5033000" />
+      <workItem from="1674116406150" duration="9304000" />
     </task>
     <task id="LOCAL-00001" summary="NEU">
       <created>1674078356368</created>
@@ -133,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674120156312</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="ul+ol">
+      <created>1674121560612</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1674121560612</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,7 +152,8 @@
     <MESSAGE value="hierarchy" />
     <MESSAGE value="h1" />
     <MESSAGE value="img beside" />
-    <option name="LAST_COMMIT_MESSAGE" value="img beside" />
+    <MESSAGE value="ul+ol" />
+    <option name="LAST_COMMIT_MESSAGE" value="ul+ol" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
