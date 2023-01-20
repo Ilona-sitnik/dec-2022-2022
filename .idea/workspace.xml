@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ff45119-9b29-4163-8e23-a7d4995bfc46" name="Changes" comment="hw1finish">
+    <list default="true" id="2ff45119-9b29-4163-8e23-a7d4995bfc46" name="Changes" comment="hwhimg">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/html/hw1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/homework/html/hw1/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lecture/html/lesson2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lecture/html/lesson2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture/html/lesson2/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/lecture/html/lesson2/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +104,7 @@
       <workItem from="1674078516020" duration="37000" />
       <workItem from="1674078571457" duration="1363000" />
       <workItem from="1674116406150" duration="9369000" />
-      <workItem from="1674207769070" duration="6464000" />
+      <workItem from="1674207769070" duration="9649000" />
     </task>
     <task id="LOCAL-00001" summary="NEU">
       <created>1674078356368</created>
@@ -190,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674213498077</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="hwhimg">
+      <created>1674214541537</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1674214541537</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -216,7 +223,8 @@
     <MESSAGE value="css" />
     <MESSAGE value="class/id" />
     <MESSAGE value="hw1finish" />
-    <option name="LAST_COMMIT_MESSAGE" value="hw1finish" />
+    <MESSAGE value="hwhimg" />
+    <option name="LAST_COMMIT_MESSAGE" value="hwhimg" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
