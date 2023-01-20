@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ff45119-9b29-4163-8e23-a7d4995bfc46" name="Changes" comment="ul+ol">
+    <list default="true" id="2ff45119-9b29-4163-8e23-a7d4995bfc46" name="Changes" comment="css">
+      <change afterPath="$PROJECT_DIR$/lecture/html/lesson2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture/html/lesson2/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture/html/lesson1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lecture/html/lesson1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture/html/lesson1/sim.css" beforeDir="false" afterPath="$PROJECT_DIR$/lecture/html/lesson1/sim.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,21 +45,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Angular Template",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Angular Template&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\volod\IdeaProjects\dec-2022-2022\lecture\html\lesson1" />
@@ -90,7 +90,8 @@
       <workItem from="1674078393389" duration="65000" />
       <workItem from="1674078516020" duration="37000" />
       <workItem from="1674078571457" duration="1363000" />
-      <workItem from="1674116406150" duration="9304000" />
+      <workItem from="1674116406150" duration="9369000" />
+      <workItem from="1674207769070" duration="2066000" />
     </task>
     <task id="LOCAL-00001" summary="NEU">
       <created>1674078356368</created>
@@ -141,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674121560612</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="css">
+      <created>1674126932778</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1674126932778</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,7 +161,8 @@
     <MESSAGE value="h1" />
     <MESSAGE value="img beside" />
     <MESSAGE value="ul+ol" />
-    <option name="LAST_COMMIT_MESSAGE" value="ul+ol" />
+    <MESSAGE value="css" />
+    <option name="LAST_COMMIT_MESSAGE" value="css" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
