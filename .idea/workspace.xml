@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ff45119-9b29-4163-8e23-a7d4995bfc46" name="Changes" comment="hwhimg">
+    <list default="true" id="2ff45119-9b29-4163-8e23-a7d4995bfc46" name="Changes" comment="ancor">
+      <change afterPath="$PROJECT_DIR$/lecture/html/js/homework2/jsnew.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture/html/js/homework2/jsnew.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture/html/lesson2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lecture/html/lesson2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture/html/lesson2/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/lecture/html/lesson2/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,19 +23,20 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -75,6 +76,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\volod\IdeaProjects\dec-2022-2022\lecture\html\js\homework2" />
       <recent name="C:\Users\volod\IdeaProjects\dec-2022-2022\lecture\html\lesson1" />
       <recent name="C:\Users\volod\IdeaProjects\dec-2022-2022\lecture" />
       <recent name="C:\Users\volod\IdeaProjects\dec-2022-2022\lesson1" />
@@ -104,7 +106,10 @@
       <workItem from="1674078516020" duration="37000" />
       <workItem from="1674078571457" duration="1363000" />
       <workItem from="1674116406150" duration="9369000" />
-      <workItem from="1674207769070" duration="9649000" />
+      <workItem from="1674207769070" duration="10451000" />
+      <workItem from="1675675303304" duration="43000" />
+      <workItem from="1675675367828" duration="23729000" />
+      <workItem from="1676013019595" duration="4595000" />
     </task>
     <task id="LOCAL-00001" summary="NEU">
       <created>1674078356368</created>
@@ -197,7 +202,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674214541537</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="ancor">
+      <created>1674217708719</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1674217708719</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -224,7 +236,8 @@
     <MESSAGE value="class/id" />
     <MESSAGE value="hw1finish" />
     <MESSAGE value="hwhimg" />
-    <option name="LAST_COMMIT_MESSAGE" value="hwhimg" />
+    <MESSAGE value="ancor" />
+    <option name="LAST_COMMIT_MESSAGE" value="ancor" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
