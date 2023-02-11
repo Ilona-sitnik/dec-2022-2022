@@ -50,12 +50,6 @@ let book11= {
     title:"Harri potter",
     pageCount:700,
     genre:"Fantasy",
-    autors:["Joanne K. Rowling",57],
-}
-let book22={
-    title:"The lord of the rings",
-    pageCount:700,
-    genre:"Fantasy",
     autors:["J. R. R. Tolkien",81],
 }
 let book33={
@@ -142,28 +136,30 @@ if(day>0 && day<=10){
 //     інфа що заплановано на цей день (можна замість плану на день, назву дня англійською).
 
 let tag=6;
-switch(tag){
+switch(tag) {
     case 1:
         console.log("montag");
-    break;
+        break;
     case 2:
         console.log("dienstag");
-    break;
+        break;
     case 3:
         console.log("mittwoch");
-    break;
+        break;
     case 4:
         console.log("donnersatg");
-    break;
+        break;
     case 5:
         console.log("freitag");
-    break;
+        break;
     case 6:
         console.log("samstag");
-    break;
+        break;
     case 7:
         console.log("sonntag");
-    break;
+        break;
+    default:
+        console.log("????");
 }
 
 //    9 - Користувач вводить або має два числа.

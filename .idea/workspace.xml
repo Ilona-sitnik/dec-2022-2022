@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ff45119-9b29-4163-8e23-a7d4995bfc46" name="Changes" comment="ancor">
-      <change afterPath="$PROJECT_DIR$/lecture/html/js/homework2/jsnew.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture/html/js/homework2/jsnew.js" afterDir="false" />
+    <list default="true" id="2ff45119-9b29-4163-8e23-a7d4995bfc46" name="Changes" comment="dz2JS">
+      <change afterPath="$PROJECT_DIR$/lecture/html/js/homework3/hm2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture/html/js/homework3/hw2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lecture/html/js/homework2/jsnew.js" beforeDir="false" afterPath="$PROJECT_DIR$/lecture/html/js/homework2/jsnew.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +110,8 @@
       <workItem from="1674207769070" duration="10451000" />
       <workItem from="1675675303304" duration="43000" />
       <workItem from="1675675367828" duration="23729000" />
-      <workItem from="1676013019595" duration="4595000" />
+      <workItem from="1676013019595" duration="8901000" />
+      <workItem from="1676106054672" duration="10618000" />
     </task>
     <task id="LOCAL-00001" summary="NEU">
       <created>1674078356368</created>
@@ -209,7 +211,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674217708719</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="dz2JS">
+      <created>1676018271198</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1676018271198</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -237,7 +246,8 @@
     <MESSAGE value="hw1finish" />
     <MESSAGE value="hwhimg" />
     <MESSAGE value="ancor" />
-    <option name="LAST_COMMIT_MESSAGE" value="ancor" />
+    <MESSAGE value="dz2JS" />
+    <option name="LAST_COMMIT_MESSAGE" value="dz2JS" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
